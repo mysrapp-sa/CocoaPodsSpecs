@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/NewHive/Documents/Coding/www/mysrapp/app/ui/editcourse/**)",
+      "Read(//c/Users/NewHive/Documents/Coding/www/mysrapp/app/ui/editcourse/dnd-kit/**)",
+      "Read(//c/Users/NewHive/Documents/Coding/www/mysrapp/app/lib/providers/**)",
+      "Read(//c/Users/NewHive/Documents/Coding/www/mysrapp/app/ui/player/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
