@@ -5,12 +5,12 @@ Pod::Spec.new do |s|
   s.version      = "6.0.3"
   s.summary      = "FFmpeg Kit iOS Https Shared Framework"
   s.description  = "FFmpeg Kit iOS Https Shared Framework FFmpeg"
-  s.homepage     = "https://github.com/mysrapp-ae/ffmpeg-kit"
+  s.homepage     = "https://github.com/MySRApp-SA/ffmpeg-kit"
   s.license      = { :type => "LGPL-3.0", :text => "Licensed under the LGPL-3.0" }
-  s.authors      = "mysrapp-ae"
+  s.authors      = "MySRApp-SA"
 
   s.source = {
-    :http => "https://github.com/mysrapp-ae/ffmpeg-kit/releases/download/v6.0/ffmpeg-kit-https-6.0-ios-xcframework.zip"
+    :http => "https://github.com/MySRApp-SA/ffmpeg-kit/releases/download/v6.0/ffmpeg-kit-https-6.0-ios-xcframework.zip"
   }
 
   s.platform          = :ios
